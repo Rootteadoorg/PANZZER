@@ -2,10 +2,13 @@
 
 # Logotipo : <p align="center"> <img width="600" height="300" src="https://github.com/Rootteadoorg/PANZZER/blob/main/Fotos/Logotipo%20Panzzer.png"> </pag>
 
-<p align="center"><img width="200px" alt="Version" src="https://img.shields.io/badge/PANZZER-grey.svg?style=for-the-flag"/></p>
+<p align="center"><img width="200px" alt="Version" src="https://img.shields.io/badge/PANZZER-grey.svg?style=for-the-glag"/></p>
 <p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-1.1-red.svg?style=for-the-glag"/></p>
 
 # Opciones del script : Escanear la IP pública de un servidor desde cualquier URL. Y realizar un ataque DoS enviando solicitudes especifícas para sobrecargar un servidor, agotando sus recursos y evitando que responda a usuarios legítimos.
+
+<p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/SDK .NET-8.0-red.svg?style=for-the-glag"/></p>
+<p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/C-(sharp)-blue.svg?style=for-the-moon"/></p>
 
 # Datos a tener encuenta : Este script debe usarse solo en entornos controlados y con autorización explicita. El uso sin permiso y indebido es ilegal y puede causar daños. El autor de PANZZER no se hace responsable del mal uso y se deslinda de cualquier cargo.
 
