@@ -1,6 +1,6 @@
 # Panzzer : Esta herramienta de Pentesting escrita en C# tiene 2 opciones solamente, posteriormente tengo pensado en un futuro añadir más opciones para la Tool.
 
-# Logotipo : <p align="center"> <img width="600" height="300" src="https://github.com/Rootteadoorg/PANZZER/blob/main/Fotos/Logotipo%20Panzzer.png"> </pag>
+# Logotipo : <p align="center"> <img width="800" height="300" src="https://github.com/Rootteadoorg/PANZZER/blob/main/Fotos/Logotipo%20Panzzer.png"> </pag>
 
 <p align="center"><img width="200px" alt="Version" src="https://img.shields.io/badge/PANZZER-grey.svg?style=for-the-glag"/></p>
 <p align="center"><img width="150px" alt="Version" src="https://img.shields.io/badge/version-1.1-grey.svg?style=for-the-glag"/></p>
