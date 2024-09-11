@@ -21,3 +21,9 @@ PROXIMAMENTE.
 # Menú : <p align="center"> <img width="1000" height="600" src="https://github.com/Rootteadoorg/PANZZER/blob/main/Fotos/Men%C3%BA.png"> </pag>
 
 # Funcionamiento : <p align="center"> <img width="1000" height="600" src="https://github.com/Rootteadoorg/PANZZER/blob/main/Fotos/funcionamiento.png"> </pag>
+
+# ‖ Redes ‖
+
+ˣ TG : http://t.me/p00xisharp
+
+ˣ GH : https://github.com/Rootteadoorg
